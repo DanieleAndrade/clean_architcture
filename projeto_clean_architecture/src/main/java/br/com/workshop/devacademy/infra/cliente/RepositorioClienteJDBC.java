@@ -1,4 +1,4 @@
-package br.com.workshop.devacademy.infra.aluno;
+package br.com.workshop.devacademy.infra.cliente;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -2,7 +2,7 @@ package br.com.workshop.devacademy;
 
 import br.com.workshop.devacademy.aplicacao.cliente.criar.CriarCliente;
 import br.com.workshop.devacademy.aplicacao.cliente.criar.CriarClienteDto;
-import br.com.workshop.devacademy.infra.aluno.RepositorioClienteMemoria;
+import br.com.workshop.devacademy.infra.cliente.RepositorioClienteMemoria;
 
 public class ClienteMain {
 	

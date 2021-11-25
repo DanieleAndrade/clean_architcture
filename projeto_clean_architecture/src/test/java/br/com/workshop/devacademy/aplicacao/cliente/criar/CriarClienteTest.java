@@ -5,10 +5,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
 import br.com.workshop.devacademy.dominio.cliente.Cliente;
+import br.com.workshop.devacademy.infra.cliente.RepositorioClienteMemoria;
 import br.com.workshop.devacademy.aplicacao.cliente.criar.CriarCliente;
 import br.com.workshop.devacademy.aplicacao.cliente.criar.CriarClienteDto;
 import br.com.workshop.devacademy.dominio.cliente.CPF;
-import br.com.workshop.devacademy.infra.aluno.RepositorioClienteMemoria;
 
 class CriarClienteTest {
 

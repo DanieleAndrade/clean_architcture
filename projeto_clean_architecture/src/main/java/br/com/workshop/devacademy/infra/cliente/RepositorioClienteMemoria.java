@@ -1,4 +1,4 @@
-package br.com.workshop.devacademy.infra.aluno;
+package br.com.workshop.devacademy.infra.cliente;
 
 import java.util.ArrayList;
 import java.util.List;
