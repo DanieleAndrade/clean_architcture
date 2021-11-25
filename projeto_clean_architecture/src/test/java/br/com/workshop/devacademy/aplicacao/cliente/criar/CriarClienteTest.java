@@ -1,4 +1,4 @@
-package br.com.workshop.devacademy.aplicacao.cliente.matricular;
+package br.com.workshop.devacademy.aplicacao.cliente.criar;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -10,7 +10,7 @@ import br.com.workshop.devacademy.aplicacao.cliente.criar.CriarClienteDto;
 import br.com.workshop.devacademy.dominio.cliente.CPF;
 import br.com.workshop.devacademy.infra.aluno.RepositorioClienteMemoria;
 
-class MatricularClienteTest {
+class CriarClienteTest {
 
 	@Test
 	void deveriaSalvarCliente() {
